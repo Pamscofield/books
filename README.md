@@ -10,4 +10,5 @@
 | 基督山伯爵 | 亚历山大仲马| 中文 |
 | Fleabag | Pheobe Waller-Bridge | English |
 | Solaris | Stanisław Lem | English |
+| 2001: a space odyssey |  Arthur C. Clarke | English
 | Die Verwandlung | Franz Kafka | German | 
