@@ -7,4 +7,7 @@
 | 安娜卡列尼娜 | 列夫托尔斯泰 | 中文 |
 | 战争与和平| 列夫托尔斯泰 | 中文 |
 | 红玫瑰与白玫瑰 | 张爱玲 | 中文 |
+| 基督山伯爵 | 亚历山大仲马| 中文 |
 | Fleabag | Pheobe Waller-Bridge | English |
+| Solaris | Stanisław Lem | English |
+| Die Verwandlung | Franz Kafka | German | 
